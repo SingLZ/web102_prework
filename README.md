@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/Uut9uAP' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://img.youtube.com/vi/ii6Lu_96H8M/0.jpg)](https://www.youtube.com/watch?v=ii6Lu_96H8M)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... imgur  
+GIF created with ... youtube  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
